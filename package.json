@@ -79,7 +79,8 @@
     "minimist": "1.2.6",
     "handlebars": "4.7.7",
     "moment": "2.29.2",
-    "y18n": "4.0.1"
+    "y18n": "4.0.1",
+    "parse-url": "6.0.1"
   },
   "engines": {
     "node": ">=4"
